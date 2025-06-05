@@ -41,12 +41,16 @@ spacex_launch_geo.csv	The processed SpaceX launch dataset with geographic coordi
 
     Clone the repository:
 
+```bash
 git clone https://github.com/your-username/spacex-launch-analysis.git
+
 cd spacex-launch-analysis
 
 Install required libraries:
 
 pip install -r requirements.txt
+
+```
 
 Launch Jupyter:
 
